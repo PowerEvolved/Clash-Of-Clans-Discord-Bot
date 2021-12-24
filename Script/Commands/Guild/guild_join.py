@@ -32,5 +32,5 @@ async def guild_join(self, guild):
         msg = await channel.send(embed=embed)
         await msg.add_reaction(Emojis["News"])
         await msg.add_reaction(Emojis["Delete"])
-        await channel.send("https://discord.gg/KQmstPw")
+        await channel.send("ses")
     return
